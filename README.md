@@ -10,7 +10,7 @@
   </p>
 </div>
 
-<p align="right">(<a href="#demo">Check Out Images</a>)</p>
+<p align="right">(<a href="#demo">Check Out Images</a>)  &nbsp;&nbsp; (<a href="#video">Check Out Video</a>)</p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -34,7 +34,9 @@
 
 ### Built With
 
-* [![React][React.js]][React-url]
+* [![Django][Django]][Django-url]
+* [![Bootstrap][Bootstrap]][Bootstrap-url]
+* [![PostgreSQL-url][PostgreSQL]][PostgreSQL-url]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -49,33 +51,39 @@
 
 <img src="https://raw.githubusercontent.com/Ujjwal-S/Customer-Management-System/main/crm_screenshots/dashboard.png">
 <br>
-<br>
-
-* Products page
-
-<img src="https://raw.githubusercontent.com/Ujjwal-S/Customer-Management-System/main/crm_screenshots/products_page.png">
-<br>
-<br>
 
 
 * Customer Detail Page
 
 <img src="https://raw.githubusercontent.com/Ujjwal-S/Customer-Management-System/main/crm_screenshots/customer_detail.png">
 <br>
-<br>
+
 
 * You can updates order status as well
 
 <img src="https://raw.githubusercontent.com/Ujjwal-S/Customer-Management-System/main/crm_screenshots/update_order_status.png">
 <br>
-<br>
+
 
 * Fully Responsive!
 
 <img src="https://raw.githubusercontent.com/Ujjwal-S/Customer-Management-System/main/crm_screenshots/responsive.png">
+<br>
+<div id="video"></div>
+
+* Here is a video
+
+[Screen Recording - Made with FlexClip.webm](https://user-images.githubusercontent.com/53434192/178096390-f59ade49-9998-411a-b2a3-3072fa8435b7.webm)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+[Django]: https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=
+[Django-url]: https://www.djangoproject.com/
 
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+
+[Bootstrap]: https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=
+[Bootstrap-url]: https://getbootstrap.com/
+
+[PostgreSQL]: https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=
+[PostgreSQL-url]: https://www.postgresql.org/
